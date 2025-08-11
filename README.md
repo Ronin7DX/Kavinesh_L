@@ -22,6 +22,7 @@ The credit card project at Atliq Bank comprises two key phases: market identific
 
 2.Credit-Risk-ML-Model-Project
 Classification model to predict credit risk value of loan purpose; powered interactive UI with Streamlit.
+
 (See more in my GitHub repos and detailed project write‑ups in the “Repositories” section below.)
 
 📫 How to Reach Me
