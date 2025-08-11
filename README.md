@@ -13,17 +13,20 @@ Tools & Platforms: Git, Jupyter Notebook, VS Code
 🎓 Certifications
 
 Complete Data Science Bootcamp From Basics to Advanced (Codebasics)
-3× Job Simulation Certificates (Forge)
+
+3× Job Simulation Certificates (Forage)
 
 🚀 Projects
 
 1.AtliQo-Credit-Card-Project
+
 The credit card project at Atliq Bank comprises two key phases: market identification and trial. This initiative aims to leverage mathematical and statistical concepts to analyze data related to demographics, income, credit scores, and spending patterns in order to identify the target audience for the credit card.
 
 2.Credit-Risk-ML-Model-Project
+
 Classification model to predict credit risk value of loan purpose; powered interactive UI with Streamlit.
 
-(See more in my GitHub repos and detailed project write‑ups in the “Repositories” section below.)
+(See 4 more projects in my GitHub repos and detailed project write‑ups in the “Repositories” section below.)
 
 📫 How to Reach Me
 
